@@ -1,5 +1,7 @@
 # A program script to explore the bubble sort algorithm.
 
+# Walkthrough Video Link: https://www.youtube.com/watch?v=XqyNNB-TT88
+
 import time
 from random import randint
 
