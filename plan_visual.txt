@@ -1,0 +1,11 @@
+Plan - Visualisation Tool for Sorting Algorithms
+
+Display split into menu bar and results screen.
+
+Key Features:
+1. Select from three sorting algorithms (Bubble Sort, Quick Sort, Heap Sort)
+2. Select number of elements in the list.
+3. Select range of elements in the list.
+4. Button to start the sort animation.
+5. Button to pause the sort animation.
+6. Button to quit the program.
